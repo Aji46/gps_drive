@@ -1,0 +1,22 @@
+name: tumbler_drive
+description: A pure Flutter open-world style driving game prototype with physics, collisions, GPS HUD, and restart.
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  geolocator: ^14.0.2
+  google_maps_flutter: ^2.13.1
+  http: ^1.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true

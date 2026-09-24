@@ -1,0 +1,1 @@
+If Android/iOS platform folders are not present, run `flutter create .` inside this directory, then `flutter pub get` and `flutter run`.
